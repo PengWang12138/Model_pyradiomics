@@ -1,0 +1,15 @@
+featureClass:
+  firstorder: null
+  glcm: null
+  gldm: null
+  glrlm: null
+  glszm: null
+  ngtdm: null
+  shape: null
+imageType:
+  Original: {}
+setting:
+  additionalInfo: false
+  binCount: 16
+  geometryTolerance: 1e-6
+  label: 1
